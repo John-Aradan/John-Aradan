@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Building the future of ML, AI, and real-world tech—one repository at a time.</em>
+  <em>Building ML, AI, and real-world tech—one repository at a time.</em>
 </p>
 
 ---
