@@ -21,12 +21,8 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23F7DF1E.svg?logo=mathworks&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23246B3C.svg?logo=mysql&logoColor=white)
 
-**ML & Deep Learning:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white)
-
-**LLMs & Retrieval:**  
-![Pinecone](https://img.shields.io/badge/Pinecone-%230081CB.svg?logo=pinecone&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC.svg?logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%23FF4081.svg?logoColor=white)
+**ML, Deep Learning & LLMs:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%230081CB.svg?logo=pinecone&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-%23FF4081.svg?logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%2300BFFF.svg?logoColor=white)
 
 **Tools & Platforms:**  
