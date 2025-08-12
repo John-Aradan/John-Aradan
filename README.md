@@ -16,7 +16,30 @@
 
 ---
 
+##  Technical Skills
+
+**Languages:**  
+![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23F7DF1E.svg?logo=mathworks&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23246B3C.svg?logo=mysql&logoColor=white)
+
+**ML & Deep Learning:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white)
+
+**LLMs & Retrieval:**  
+![Pinecone](https://img.shields.io/badge/Pinecone-%230081CB.svg?logo=pinecone&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC.svg?logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23FF4081.svg?logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300BFFF.svg?logoColor=white)
+
+**Tools & Platforms:**  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=matplotlib&logoColor=black) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-%23FFBE00.svg?logo=weightsandbiases&logoColor=black) ![SendGrid](https://img.shields.io/badge/SendGrid-%230077B5.svg?logo=sendgrid&logoColor=white)
+
+
+
+
 ##  Featured Projects
+
+[![VetGPT](https://img.shields.io/badge/VetGPT-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Aradan/VetGPT)
+[![Dynamic-Pricing-Engine](https://img.shields.io/badge/Dynamic--Pricing--Engine-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Aradan/Dynamic-Pricing-Engine)
+[![dermalab-pennaps](https://img.shields.io/badge/dermalab--pennaps-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Aradan/dermalab-pennaps)
 
 🎯 **VetGPT** — AI-assisted veterinary query engine  
 💰 **Dynamic-Pricing-Engine** — Smart real-time pricing optimization  
@@ -24,14 +47,4 @@
 
 ---
 
-##  What Drives Me
-
-- I turn complex challenges into **insightful code** and **real-world solutions**.  
-- Passionate about scaling *AI tools*, crafting *user-centric systems*, and writing **readable, maintainable code**.  
-- Always learning, always iterating—love collaborations that broaden horizons.
-
----
-
-##  My Resume
-
-[**Download My Resume (PDF)**](Resume.pdf)
+### [**My Resume**](Resume.pdf)
